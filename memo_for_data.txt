@@ -1,0 +1,13 @@
+Certain datasets have been excluded from this repository. These include:
+
+Regional Vs30 data for the St. Lawrence lowlands
+
+NRCan exposure data for Canadian building stock
+
+If you are interested in accessing these datasets, please contact:
+
+Dr. Katsuichiro Goda (kgoda2@uwo.ca)
+
+Dr. Payam Momeni (pmomeni@uwo.ca)
+
+Thank you.
