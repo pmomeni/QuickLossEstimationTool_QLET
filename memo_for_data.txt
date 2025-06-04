@@ -4,10 +4,6 @@ Regional Vs30 data for the St. Lawrence lowlands
 
 NRCan exposure data for Canadian building stock
 
-If you are interested in accessing these datasets, please contact:
-
-Dr. Katsuichiro Goda (kgoda2@uwo.ca)
-
-Dr. Payam Momeni (pmomeni@uwo.ca)
+If you are interested in accessing these datasets, please contact Payam Momeni (pmomeni@uwo.ca) or Katsuichiro Goda (kgoda2@uwo.ca).
 
 Thank you.
