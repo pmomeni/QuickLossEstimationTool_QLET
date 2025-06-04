@@ -12,7 +12,7 @@ This tool was developed to facilitate regional-scale risk evaluations within pra
 
 ## Reference
 
-For detailed methodology, validation, and case studies using QLET, please refer to the following publication:
+For detailed methodology and case studies using QLET, please refer to the following publication:
 
 **Momeni, P.; Goda, K.; Sirous, N.; Molnar, S. (2025).**  
 *Rapid Computation of Seismic Loss Curves for Canadian Buildings Using Tail Approximation Method*.  
