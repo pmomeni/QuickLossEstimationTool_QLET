@@ -29,6 +29,4 @@ A copy of the published paper is also included in the root directory of this rep
 
 ## Important Notes
 
-- Some datasets (e.g., NRCan exposure data and Nastev et al. 2016 Vs30 data) have been removed from the repository. If you are interested in accessing these datasets, please contact:
-- Dr. Katsuichiro Goda (kgoda2@uwo.ca)
-- Dr. Payam Momeni (pmomeni@uwo.ca)
+- Some datasets (e.g., NRCan exposure data and Nastev et al. 2016 Vs30 data) have been removed from the repository. If you are interested in accessing these datasets, please contact Payam Momeni (pmomeni@uwo.ca) or Katsuichiro Goda (kgoda2@uwo.ca).
