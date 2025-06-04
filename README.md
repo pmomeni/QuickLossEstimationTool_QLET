@@ -8,7 +8,7 @@
 - Monte Carlo simulation-based loss estimation
 - Tail approximation methods for hazard curve estimation
 
-This tool was developed to support urban planning, disaster preparedness, insurance analysis, and emergency response planning.
+This tool was developed to facilitate regional-scale risk evaluations within practical timeframes, making it particularly applicable to emergency preparedness, urban planning, and insurance analysis.
 
 ## Reference
 
