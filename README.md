@@ -12,9 +12,14 @@ This tool was developed to support urban planning, disaster preparedness, insura
 
 ## Reference
 
-If you use QLET in your work, please cite the following paper:
+For detailed methodology, validation, and case studies using QLET, please refer to the following publication:
 
-> **Momeni, P., Goda, K., Sirous, N., & Molnar, S. (2025).** Rapid Computation of Seismic Loss Curves for Canadian Buildings Using Tail Approximation Method. *GeoHazards, 6*(2), 26. [https://doi.org/10.3390/geohazards6020026]
+**Momeni, P.; Goda, K.; Sirous, N.; Molnar, S. (2025).**  
+*Rapid Computation of Seismic Loss Curves for Canadian Buildings Using Tail Approximation Method*.  
+**GeoHazards, 6(2), 26.**  
+[https://doi.org/10.3390/geohazards6020026]
+
+A copy of the published paper is also included in the root directory of this repository.
 
 ## Repository Structure
 
@@ -24,5 +29,6 @@ If you use QLET in your work, please cite the following paper:
 
 ## Important Notes
 
-- Some datasets (e.g., NRCan exposure data and Nastev et al. 2016 Vs30 data) have been removed from the repository.
-- If you are interested in accessing these datasets, please contact authors.
+- Some datasets (e.g., NRCan exposure data and Nastev et al. 2016 Vs30 data) have been removed from the repository. If you are interested in accessing these datasets, please contact:
+- Payam Momeni (pmomeni@uwo.ca)
+- Katsuichiro Goda (kgoda2@uwo.ca)
